@@ -17,5 +17,5 @@
 ## 💞️ - Collaborations
   Focused on my own stuff at the moment.
     
-## 🎶 - Music
+## 🎶 - Socials
   * [Last.FM](https://www.last.fm/user/Smapomon)
