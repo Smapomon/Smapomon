@@ -16,15 +16,6 @@
 
 ## 💞️ - Collaborations
   Focused on my own stuff at the moment.
-
-## 📫 - Socials & Contact Info 
-  🐦 Twitter (Mostly just retweeting stuff)
-  * [Professional-ish](https://twitter.com/SahlaSampo)
-  * [Personal](https://twitter.com/Smapomon)
-  
-  🗾 AsianPopCulture
-  * [Anime & Manga](https://anilist.co/user/Smapo/)
-  * [Dorama](https://mydramalist.com/profile/SampoSahla)
     
-  🎶 Music
+## 🎶 - Music
   * [Last.FM](https://www.last.fm/user/Smapomon)
