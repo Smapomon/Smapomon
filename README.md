@@ -13,6 +13,7 @@
 
 ## 🌱 - Learning currently
   Mostly DB stuff at the moment, but planning to undertake the creation of my own OS in the near-ish future.
+  Vim
 
 ## 💞️ - Collaborations
   Focused on my own stuff at the moment.
