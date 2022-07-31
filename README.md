@@ -12,7 +12,8 @@
   * InfoSec
 
 ## 🌱 - Learning currently
-  * Mostly DB stuff at the moment, but planning to undertake the creation of my own OS in the near-ish future.
+  * C
+  * Assembly
   * Vim
 
 ## 💞️ - Collaborations
