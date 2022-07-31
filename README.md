@@ -6,9 +6,8 @@
   * Finance
   * Music (mostly listening, sometimes attempts at playing)
   * Asian popular culture (C-/J-/K-drama, Anime, Manga & all the other usual suspects like K-POP)
-  * Bouldering (topping these grades at the moment: 6C-7A) 
+  * Bouldering (6C-7A)
   * Gaming
-  * Crypto
   * InfoSec
 
 ## 🌱 - Learning currently
