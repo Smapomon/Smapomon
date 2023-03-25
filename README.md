@@ -13,7 +13,7 @@
 ## 🌱 - Learning currently
   * C
   * Assembly
-  * Vim
+  * More SQL
 
 ## 💞️ - Collaborations
   Focused on my own stuff at the moment.
